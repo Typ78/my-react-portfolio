@@ -1,0 +1,18 @@
+{
+    "projects": [
+      {
+        "title": "Weather App",
+        "description": "Check live weather of any city.",
+        "link": "https://weather-app.com"
+      }
+    ],
+    "blogs": [
+      {
+        "title": "React Tips",
+        "description": "Some useful React tips and tricks.",
+        "link": "https://blogsite.com/react-tips"
+      }
+    ],
+    "skills": ["HTML", "CSS", "JavaScript", "React", "TailwindCSS"]
+  }
+  
